@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Aula01_Variaveis",
+            "request": "launch",
+            "mainClass": "Orientacao_Objetos.Aula01_Variaveis",
+            "projectName": "java_essencials_d32b68ee"
+        },
+        {
+            "type": "java",
             "name": "Argumentos01",
             "request": "launch",
             "mainClass": "Argumentos01",
