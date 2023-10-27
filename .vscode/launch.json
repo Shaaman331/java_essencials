@@ -1,0 +1,56 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Argumentos01",
+            "request": "launch",
+            "mainClass": "Argumentos01",
+            "projectName": "java_essencials_d32b68ee"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Argumentos",
+            "request": "launch",
+            "mainClass": "Argumentos",
+            "projectName": "java_essencials_d32b68ee"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "java_essencials_d32b68ee"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "src.App",
+            "projectName": "java_essencials_d32b68ee"
+        },
+        {
+            "type": "java",
+            "name": "Aula05",
+            "request": "launch",
+            "mainClass": "src.Aula05",
+            "projectName": "java_essencials_d32b68ee"
+        },
+        {
+            "type": "java",
+            "name": "Aula06_Scanner",
+            "request": "launch",
+            "mainClass": "src.Aula06_Scanner",
+            "projectName": "java_essencials_d32b68ee"
+        }
+    ]
+}
