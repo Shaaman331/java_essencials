@@ -1,10 +1,12 @@
+package Orientacao_Objetos;
+
 import java.util.Scanner;
  //importa a clase Scanner
 
 public class Aula04_Scanner {
     
     public static void main(String[] args) throws Exception {
-        String jogo;
+        //String jogo;
         //Scaner -> classe
         Scanner leitor = new Scanner(System.in);
         //Configurando (separadores é :OU \r ou \n)

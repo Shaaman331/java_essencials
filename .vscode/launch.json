@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Aula10_Curtocircuito",
+            "request": "launch",
+            "mainClass": "Orientacao_Objetos.Aula10_Curtocircuito",
+            "projectName": "java_essencials_d32b68ee"
+        },
+        {
+            "type": "java",
+            "name": "Aula10_Curtocircuito",
+            "request": "launch",
+            "mainClass": "Aula10_Curtocircuito",
+            "projectName": "java_essencials_d32b68ee"
+        },
+        {
+            "type": "java",
+            "name": "Aula09_OperadoresLogicos",
+            "request": "launch",
+            "mainClass": "Orientacao_Objetos.Aula09_OperadoresLogicos",
+            "projectName": "java_essencials_d32b68ee"
+        },
+        {
+            "type": "java",
             "name": "Aula08_OperadoresRelacionais",
             "request": "launch",
             "mainClass": "Orientacao_Objetos.Aula08_OperadoresRelacionais",

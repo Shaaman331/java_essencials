@@ -1,3 +1,4 @@
+package Orientacao_Objetos;
 public class Aula05 {
     public static void main(String[] args) throws Exception {
         String nomeCompleto; //Declarando a variável
