@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Aula07_OperadoresAritimeticos",
+            "request": "launch",
+            "mainClass": "Aula07_OperadoresAritimeticos",
+            "projectName": "java_essencials_d32b68ee"
+        },
+        {
+            "type": "java",
             "name": "Aula06_Scanner",
             "request": "launch",
             "mainClass": "Aula06_Scanner",
