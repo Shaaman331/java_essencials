@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Aula06_Scanner",
+            "request": "launch",
+            "mainClass": "Aula06_Scanner",
+            "projectName": "java_essencials_d32b68ee"
+        },
+        {
+            "type": "java",
+            "name": "Aula04_LeituraDadosTeclado",
+            "request": "launch",
+            "mainClass": "Orientacao_Objetos.Aula04_LeituraDadosTeclado",
+            "projectName": "java_essencials_d32b68ee"
+        },
+        {
+            "type": "java",
+            "name": "Aula03_CaracterChar",
+            "request": "launch",
+            "mainClass": "Orientacao_Objetos.Aula03_CaracterChar",
+            "projectName": "java_essencials_d32b68ee"
+        },
+        {
+            "type": "java",
+            "name": "Aula02_TiposPrimitivos",
+            "request": "launch",
+            "mainClass": "Orientacao_Objetos.Aula02_TiposPrimitivos",
+            "projectName": "java_essencials_d32b68ee"
+        },
+        {
+            "type": "java",
             "name": "Aula01_Variaveis",
             "request": "launch",
             "mainClass": "Orientacao_Objetos.Aula01_Variaveis",
