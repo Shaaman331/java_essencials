@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Aula08_OperadoresRelacionais",
+            "request": "launch",
+            "mainClass": "Orientacao_Objetos.Aula08_OperadoresRelacionais",
+            "projectName": "java_essencials_d32b68ee"
+        },
+        {
+            "type": "java",
+            "name": "Aula07_OperadoresAritimeticos",
+            "request": "launch",
+            "mainClass": "Orientacao_Objetos.Aula07_OperadoresAritimeticos",
+            "projectName": "java_essencials_d32b68ee"
+        },
+        {
+            "type": "java",
+            "name": "Aula01_Variaveis",
+            "request": "launch",
+            "mainClass": "Aula01_Variaveis",
+            "projectName": "java_essencials_d32b68ee"
+        },
+        {
+            "type": "java",
+            "name": "Aula01_Variaveis",
+            "request": "launch",
+            "mainClass": "src.Orientacao_Objetos.Aula01_Variaveis",
+            "projectName": "java_essencials_d32b68ee"
+        },
+        {
+            "type": "java",
+            "name": "Aula08_OperadoresRelacionais",
+            "request": "launch",
+            "mainClass": "src.Orientacao_Objetos.Aula08_OperadoresRelacionais",
+            "projectName": "java_essencials_d32b68ee"
+        },
+        {
+            "type": "java",
             "name": "Aula07_OperadoresAritimeticos",
             "request": "launch",
             "mainClass": "Aula07_OperadoresAritimeticos",

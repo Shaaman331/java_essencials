@@ -1,3 +1,5 @@
+package Orientacao_Objetos;
+
 public class Aula07_OperadoresAritimeticos {
     public static void main(String[] args) {
         int  resultado = 1 + 2;
