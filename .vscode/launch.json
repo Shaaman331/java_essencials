@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exer02_SenhaUsuario",
+            "request": "launch",
+            "mainClass": "Exercicios.Exer02_SenhaUsuario",
+            "projectName": "java_essencials_d32b68ee"
+        },
+        {
+            "type": "java",
+            "name": "Exer01_Contador",
+            "request": "launch",
+            "mainClass": "Exercicios.Exer01_Contador",
+            "projectName": "java_essencials_d32b68ee"
+        },
+        {
+            "type": "java",
+            "name": "Exercicios01_Loops",
+            "request": "launch",
+            "mainClass": "Exercicios.Exercicios01_Loops",
+            "projectName": "java_essencials_d32b68ee"
+        },
+        {
+            "type": "java",
             "name": "Aula10_Curtocircuito",
             "request": "launch",
             "mainClass": "Orientacao_Objetos.Aula10_Curtocircuito",
