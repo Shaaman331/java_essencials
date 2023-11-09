@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exer03_Validacao",
+            "request": "launch",
+            "mainClass": "Exercicios.Exer03_Validacao",
+            "projectName": "java_essencials_d32b68ee"
+        },
+        {
+            "type": "java",
             "name": "Exer02_SenhaUsuario",
             "request": "launch",
             "mainClass": "Exercicios.Exer02_SenhaUsuario",
